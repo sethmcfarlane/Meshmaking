@@ -9,3 +9,5 @@ This work explores the use of mesh object modeling in Grasshopper, a parametric 
 ![blobs](https://github.com/sethmcfarlane/Meshmaking/blob/master/pics/nanner.png)
 
 ![blobs](https://github.com/sethmcfarlane/Meshmaking/blob/master/pics/lattice.png)
+
+![blobs](https://github.com/sethmcfarlane/Meshmaking/blob/master/pics/IMG_20190511_200052.jpg)
